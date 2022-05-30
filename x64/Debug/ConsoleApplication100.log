@@ -1,0 +1,5 @@
+﻿  ConsoleApplication100.cpp
+  Header.cpp
+C:\Users\Мопсиха\Desktop\C++\ConsoleApplication100\ConsoleApplication100\Header.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  ConsoleApplication100.vcxproj -> C:\Users\Мопсиха\Desktop\C++\ConsoleApplication100\x64\Debug\ConsoleApplication100.exe
